@@ -1,6 +1,6 @@
 # Design direction
 
-Fill this in during Session 1, after your positioning. Claude Code reads it before it builds any screen, so every page follows the same rules without you policing it. Keep it short. If a choice isn't here, Claude picks the plainest option.
+Write this in Session 1, after your positioning, and paste it in here during the setup lab. Claude Code reads it before it builds any screen, so every page follows the same rules without you policing it. Keep it short. If a choice isn't here, Claude picks the plainest option.
 
 ## Voice
 

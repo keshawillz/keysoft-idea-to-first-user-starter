@@ -2,16 +2,16 @@
 
 This folder holds your design from Claude Design, so Claude Code can match it and so the design travels with your code.
 
-## How it gets here (Session 1)
+## How it gets here (the setup lab, after Session 1)
 
 1. In Claude Design, when your screens are ready, click **Share** at the top right, then the **Export** tab.
 2. Click **HTML** (standalone web page) to download your design as a web page. That file is your design as code: the exact colors, fonts, spacing and layout.
 3. Click **PNG**. You get a zip file with one image per screen. Unzip it (double-click it on a Mac; right-click, Extract All on Windows).
 4. Drag the HTML file and the PNGs from your computer into this folder in the file list on the left of the Codespace. Name them so the order is obvious: `design.html`, then `1-home.png`, `2-form.png`, and so on.
-5. Commit, then carry on with your build prompt.
+5. Commit, then Sync Changes. You build from it in Session 2.
 
 ## The rule
 
 Claude Code reads what's in here before it builds. `DESIGN.md` is the written version of the same decisions (colors, type, sizes, components). When the two disagree, `DESIGN.md` wins, so fix it there.
 
-Until Session 1 this folder holds only this note.
+Until the setup lab this folder holds only this note.

@@ -4,6 +4,8 @@ The empty foundation every product in the cohort starts from. A blank home page,
 
 **Stack:** Next.js 15, Tailwind CSS 4, AWS Amplify Gen 2 (for signups), Amplify Hosting (deploy, week 3).
 
+**In the cohort, we do sections 1 to 4 together, live, in the setup lab on Tuesday, January 12.** It's recorded. Use this page as your reference afterward, or to catch up from the recording before Session 2.
+
 ## 1. Make it yours (5 minutes)
 
 1. Click **Use this template** at the top of this page, then **Create a new repository**.
@@ -74,9 +76,9 @@ Next time, open the same Codespace from the **Code** button (it lists existing o
 | `app/layout.tsx` | Page title and description. Change them with your positioning too. |
 | `components/SignupForm.tsx` | The signup form. Change the words, keep the save call. |
 | `lib/signups.ts` | Saves a signup. Local mode now, Amplify in week 3. |
-| `SPEC.md` | Your one-page spec. Claude Code reads it before building. Fill it in during Session 1. |
-| `DESIGN.md` | Your design direction: voice, colors, type, sizes. Claude Code reads it before building any screen. Fill it in during Session 1. |
-| `design/` | Your design exported from Claude Design (HTML and screen images). Claude Code reads it before building. Added in Session 1. |
+| `SPEC.md` | Your one-page spec. Claude Code reads it before building. Write it in Session 1, paste it in during the setup lab. |
+| `DESIGN.md` | Your design direction: voice, colors, type, sizes. Claude Code reads it before building any screen. Write it in Session 1, paste it in during the setup lab. |
+| `design/` | Your design exported from Claude Design (HTML and screen images). Claude Code reads it before building. Added in the setup lab. |
 | `LAUNCH-CHECK.md` | Twelve pre-launch checks and the prompts to run them. Used in Sessions 3 and 4. |
 | `CLAUDE.md` | The rules Claude Code follows in this project. |
 | `amplify/` | The Amplify backend: one `Signup` table. Don't edit it in weeks 1 and 2. |

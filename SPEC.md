@@ -1,6 +1,6 @@
 # One-page spec
 
-Fill this in during Session 1, with DESIGN.md. Claude Code reads both before it builds anything, so be concrete. One user, one problem, one flow.
+Write this in Session 1, with DESIGN.md, and paste it in here during the setup lab. Claude Code reads both before it builds anything, so be concrete. One user, one problem, one flow.
 
 ## Product
 
